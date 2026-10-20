@@ -1,6 +1,6 @@
 # Salt Lake City Clinical Research Jobs
 
-**11 open clinical research, research and regulatory roles in the Salt Lake City area and Utah at 3 US employers.** Checked 15 Oct 2026. 4 posted in the last 7 days. 3 at employers with a visa sponsorship record.
+**6 open clinical research, research and regulatory roles in the Salt Lake City area and Utah at 3 US employers.** Checked 20 Oct 2026. 0 posted in the last 7 days. 2 at employers with a visa sponsorship record.
 
 Clinical research, research coordinator, CRA, clinical trial and regulatory roles in Salt Lake City and across Utah (Lehi, Provo, Sandy, Murray, Draper, Ogden). No senior, lead or manager titles.
 
@@ -8,8 +8,8 @@ Every role comes straight from the employer's own job board, picked up by [Litos
 
 | List | Roles | Employers |
 | --- | --- | --- |
-| [Salt Lake City area](lists/salt-lake-city.md) | 7 | 2 |
-| [Rest of Utah](lists/rest-of-utah.md) | 4 | 2 |
+| [Salt Lake City area](lists/salt-lake-city.md) | 4 | 2 |
+| [Rest of Utah](lists/rest-of-utah.md) | 2 | 1 |
 
 Click a role to open it, with the employer's own application link. Spreadsheet versions: [csv/](csv/).
 
@@ -21,13 +21,8 @@ Click a role to open it, with the employer's own application link. Spreadsheet v
 | **IQVIA** | [Clinical Research Coordinator, On-Site, Bountiful, Utah](https://trylitos.com/job/398d2edb-5360-4763-9054-65117ed48074?utm_source=github&utm_campaign=slc-clinical-salt-lake-city) | Bountiful, UT, United States of America |  | Oct 12 | Employer has US H-1B filings (USCIS and DOL records); posting does not say |
 | **ICON plc** | [Medical Research Associate - PRN (Phlebotomist/Paramedic/LVN) - 7PM-7 AM: Sa/Su/M OR F/Sa/Su](https://trylitos.com/job/a0cc443e-c167-4c20-984b-78fe526bb215?utm_source=github&utm_campaign=slc-clinical-salt-lake-city) | US, Salt Lake City (PRA) |  | Oct 9 |  |
 | **ICON plc** | [Medical Research Associate - PRN (Phlebotomist/Paramedic/LVN) - 7AM-7PM: M/W/F OR T/Th/Fr](https://trylitos.com/job/3e6a1504-de8a-4ecd-b764-ab6d62cc2e14?utm_source=github&utm_campaign=slc-clinical-salt-lake-city) | US, Salt Lake City (PRA) |  | Oct 9 |  |
-| **IQVIA** | [Clinical Research Coordinator I](https://trylitos.com/job/04341d8d-0108-4f20-92ba-8ad443dd02c3?utm_source=github&utm_campaign=slc-clinical-salt-lake-city) | Salt Lake City, UT, United States of America |  | Oct 5 | Employer has US H-1B filings (USCIS and DOL records); posting does not say |
-| **ICON plc** | [Laboratory Assistant- Early Phase Clinical Research - PRN: M-F 6 AM-5 PM](https://trylitos.com/job/0308b205-5fc2-4a65-b6e2-8161fc493200?utm_source=github&utm_campaign=slc-clinical-salt-lake-city) | US, Salt Lake City (PRA) |  | Sep 25 |  |
-| **ICON plc** | [Laboratory Assistant- Early Phase Clinical Research - PRN: Saturday - Sunday 7 AM-4PM](https://trylitos.com/job/44d4f65e-446f-4e4f-95b6-b475fd1a218a?utm_source=github&utm_campaign=slc-clinical-salt-lake-city) | US, Salt Lake City (PRA) |  | Sep 25 |  |
 | **Syneos Health** | [Experienced Clinical Research Associate - Sponsor Dedicated](https://trylitos.com/job/17122ee6-8ba3-4b93-8680-593045fd3907?utm_source=github&utm_campaign=slc-clinical-rest-of-utah) | USA-NC-Remote; USA-RI-Remote; USA-ME-Remote; |  | Sep 30 |  |
 | **Syneos Health** | [Clinical Research Associate - Full-Service](https://trylitos.com/job/01bc0104-59da-4af5-b2d0-939ae06cbe2c?utm_source=github&utm_campaign=slc-clinical-rest-of-utah) | USA-NC-Remote; USA-RI-Remote; USA-ME-Remote; |  | Sep 30 |  |
-| **ICON plc** | [Clinical Research Associate II](https://trylitos.com/job/66f98df7-bb5a-4815-8622-78a2a46923dd?utm_source=github&utm_campaign=slc-clinical-rest-of-utah) | US, Washington; California; Seattle, WA; Oreg |  | Sep 28 |  |
-| **Syneos Health** | [CRA - Healthy Volunteer Phase I (ClinPharm) (Home-Based - Salt Lake City)](https://trylitos.com/job/10123f05-4b57-4e14-980f-1e429dbd8602?utm_source=github&utm_campaign=slc-clinical-rest-of-utah) | USA-UT-Remote; USA-CA-Remote |  | Sep 9 |  |
 
 Visa signal: the posting says it sponsors, or the employer has US H-1B (USCIS) or LCA (DOL) records. A record means the employer has sponsored before, not that a given role will, so always confirm with the employer.
 
